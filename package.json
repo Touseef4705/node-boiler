@@ -1,0 +1,28 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "this is demo template",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Touseef4705/Node-Back-Template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Touseef4705/Node-Back-Template/issues"
+  },
+  "homepage": "https://github.com/Touseef4705/Node-Back-Template#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  },
+  "module": ""
+}
